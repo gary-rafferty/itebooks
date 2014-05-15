@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["gary.rafferty@gmail.com"]
   spec.summary       = %q{Ruby client for the IT-Ebooks API}
   spec.description   = %q{Ruby client for the IT-Ebooks API}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/gary-rafferty/itebooks"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
